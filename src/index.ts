@@ -1,5 +1,5 @@
 const test = (a: number) => {
-  return a
+  return a;
 };
 
-test(1)
+test(1);
