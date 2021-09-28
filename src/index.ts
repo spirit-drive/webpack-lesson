@@ -1,5 +1,3 @@
-const test = (a: number) => {
+export const test = (a: number): number => {
   return a;
 };
-
-test(1);
